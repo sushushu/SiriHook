@@ -133,6 +133,7 @@ curl http://192.168.1.100:12345/set/520
 
 - **GitHub Issues**: 技术问题反馈
 - **商业咨询**: sushushu86
+- **微信**: `_sushushu`
 
 ## 🔗 相关资源
 
