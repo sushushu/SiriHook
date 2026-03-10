@@ -12,10 +12,11 @@
 <div align="center">
   <video width="400" controls>
     <source src="https://oss.banan.xin/video/copy_C8F02053-89C7-4640-8C7D-81193447BD7B.MOV" type="video/quicktime">
-    您的浏览器不支持视频播放，请 <a href="[https://oss.banan.xin/video/copy_C8F02053-89C7-4640-8C7D-81193447BD7B.MOV](https://oss.banan.xin/video/IMG_4352.mov)">点击这里</a> 下载观看
+    您的浏览器不支持视频播放，请 <a href="https://oss.banan.xin/video/IMG_4352.mov">点击这里</a> 下载观看
   </video>
 </div>
-[https://oss.banan.xin/video/copy_C8F02053-89C7-4640-8C7D-81193447BD7B.MOV](https://oss.banan.xin/video/IMG_4352.mov)
+
+https://oss.banan.xin/video/IMG_4352.mov
 
 ## 📋 产品简介
 
